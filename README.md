@@ -79,7 +79,7 @@ The goal of this project was to analyze **employee shift and work-order allocati
 ## 📂 Repository Structure  
 ```bash
 📦 Advanced-Power-BI-Sales-Dashboard
- ┣ 📊 Dashboard.xls         # Excel dashboard file
+ ┣ 📊 Dashboard.xlsx         # Excel dashboard file
  ┣ 📑 README.md             # Project documentation
  ┣ 📂 Data                  # Raw and cleaned datasets (anonymized/cleaned)
  ┗ 📂 dashboard_images      # Dashboard images
